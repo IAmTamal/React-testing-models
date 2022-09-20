@@ -36,3 +36,14 @@ Tech stacks used ?
 
 </p>
 </br>
+<br/>
+
+<h1 align="center">
+Tests till now 🤖
+</h1>
+
+<p align="center">
+❄ Checking if a header is present using title <br/>
+❄ Checking if a email gets updated using onchange <br/>
+❄ Checking if a password gets updated using onchange <br/>
+</p>
