@@ -1,0 +1,13 @@
+.login_parent_main {
+  background-color: #f5f5f5;
+  color: black;
+  padding: 30px;
+  border-radius: 12px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.login_parent_1 .mb-3 input {
+  width: 40%;
+  margin: auto;
+}
